@@ -1,4 +1,4 @@
-age,period_days,star_1_mass,star_2_mass
+age,period_days,star_1_mass(Donor),star_2_mass(NS)
 100000,0.399733682135655,1,1.4
 220000,0.399414459490985,1,1.4
 364000,0.399031873651589,1,1.4
